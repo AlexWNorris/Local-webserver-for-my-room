@@ -9,5 +9,7 @@ and setting an alarm to wake me up in the morning
 still play music through the speaker conncected to the rasberry pie. 
 
 see video showcases for the program here:
+
 music & alarm: https://www.youtube.com/watch?v=tkmbD-OK3VA&t=3s
+
 lights: https://www.youtube.com/shorts/hJlXWs_O5vE
